@@ -1,0 +1,14 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#back {
+  background-image: url(medias/pexels-benjamin-suter-3617500.jpg);
+}
+
+.mano {
+  color: white;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
